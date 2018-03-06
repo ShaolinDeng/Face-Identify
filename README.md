@@ -10,4 +10,6 @@ A Face Identify Demo developed with Baidu AI and C++
 ### OpenCv2.4.13
 Download from Opencv Offocial:https://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.13/opencv-2.4.13.3-vc14.exe/download   
 
-Add dependence in VS2017（Used x86 here）
+Add dependence in VS2017（Used x86 here）  
+### Install curl
+
